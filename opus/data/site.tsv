@@ -6,7 +6,7 @@ iconName	AW Opus v1.5
 footer-message	Maximize your productivity with GW and AW!
 siteMenuName	Amadeus Web's Opus
 
-sections	for: work, segments: children+women, use-by
+sections	use-in, for: work, segments: children+women, use-by
 local-url	http://localhost/aw-products/opus/
 live-url	https://opus.amadeusweb.com/
 year	2025
